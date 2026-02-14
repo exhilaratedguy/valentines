@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  overflow: hidden;
+  background-color: #fff5f5;
+}
+
+.font-cursive {
+  font-family: "Dancing Script", cursive;
+}
+
+button {
+  cursor: pointer;
+}
